@@ -496,13 +496,13 @@ a {
   fill: #f4f4fd;
 }
 
+.icons-list-footer .social-links {
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
 .icons-list-footer .social-links:hover,
 .icons-list-footer .social-links:focus {
   background-color: #31d0aa;
-}
-
-.icons-list-footer .social-links {
-  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 /* #endregion footer */
